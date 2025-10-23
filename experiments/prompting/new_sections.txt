@@ -1,0 +1,34 @@
+Section 1: Business
+
+    Company Background: Provide the company overiew in a neatly formatted way
+
+    Products and Services: List out the products and services offered by the company in a neatly formatted way
+
+    Competition and Strategy: Provide the details about the company's competition and their strategy to compete with them.
+
+    Intellectual Property and Human Resources: Provide details about the company's intellectual property and steps taken to protect and enchance human capital
+
+    Regulatory and Legal Matters: What are the regulatory and legal issues? List them out in bullet points in detail.
+
+
+Section 2: Risk Factors
+
+    Product and Operational Risks: Discuss the combined product and operational risks, including product design and quality, operational challenges, and their interrelation.
+    
+    Regulatory, Compliance, and Market Risks: Explore regulatory and market risks, focusing on compliance challenges and market dynamics. 
+
+
+Section 3: Management's Discussion and Analysis
+
+    Fiscal Year Highlights: 
+
+
+Section 4: Financial Statements
+
+    Income statements: provide the net income, basic earnings per share, cost and expenses. provide insights from these metrics.
+    
+    Balance Sheet: provide the total assets, total liabilites, retained earnings. provide insights from these metrics.
+
+
+
+

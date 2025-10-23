@@ -1,6 +1,6 @@
 
 
-# 💸 FinSight: 
+
 **Financial Insights at Your Fingertips**
 
 Finsight is a cutting-edge finance AI assistant tailored to meet the needs of portfolio managers, investors, and finance enthusiasts. By leveraging `GPT-4` and financial data, Finsight provides deep insights and actionable summaries about a company, aiding in more informed investment decisions.
@@ -36,9 +36,7 @@ If you'd like to learn more about the technical details of FinSight, check out t
 -- **Llama Index**: Simple, flexible data framework for connecting custom data sources to large language models.
 -- **Alpha Vantage**: The go-to API service for fetching the most recent financial data about companies.
 
-## How to Use
-### Website Access: 
-Head over to [Finsight](https://finsight-report.streamlit.app/)
+
 
 ### **Local Setup**:
 
